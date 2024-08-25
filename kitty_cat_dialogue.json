@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				-155,
+				-70
+			],
+			"idle_name": "idle",
+			"anim": "idle",
+			"loop_offsets": [
+				-155,
+				-70
+			]
+		}
+	],
+	"image": "kitty_cat_dialogue"
+}
